@@ -1,4 +1,4 @@
 # Image-hosting
 Storage images using picx
 
-THis is for private images stroe
+This is for private images stroe
